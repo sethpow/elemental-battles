@@ -95,4 +95,3 @@ Examples of unacceptable behavior include:
 See [Copyright Notice](./CopyrightNotice.md) for copyright terms.
 
 All repositories and other materials are provided subject to the terms of this [IMPORTANT](./ImportantNotice.md) notice and you must familiarize yourself with its terms. The notice contains important information, limitations and restrictions relating to our software, publications, trademarks, third-party resources, and forward-looking statements. By accessing any of our repositories and other materials, you accept and agree to the terms of the notice.
-# elemental-battles
